@@ -1,0 +1,57 @@
+body {
+    background-image: url(../images/seamless_paper_texture.png);
+    margin: auto 0;
+    color: grey;
+    
+    
+}
+
+.Header {
+    margin-bottom: 40px;
+    color: #4aaaa5;
+    padding-bottom: 20px;
+    border-bottom: darkslategray solid 2px;
+}
+
+
+
+
+
+
+
+
+
+
+/* nav bar styles */
+
+.navbar-brand   {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 0;
+    font-size: 20px;
+    font-display: left;
+    
+}
+
+.navbar-default {
+    border-bottom: darkcyan solid 4px;
+
+}
+
+/* footer */
+
+.footer-section {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 30px;
+    clear: both;
+    border-top: 5px #4AAAA5 solid;
+ }
+
+/* media queries */
+
+@media screen and (max-width: 767px)
