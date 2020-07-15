@@ -1,10 +1,6 @@
 
 
 
-
-
-
-
 body{
     background-image: url(../images/seamless_paper_texture.png);
     margin: auto 0;
@@ -13,16 +9,11 @@ body{
     
 }
 
-
-
-
-
-
 .Header {
     margin-bottom: 10px;
     color: #4aaaa5;
-    padding-bottom: 20px;
-    border-bottom: lightslategray thin 2px;
+    padding-bottom: 15px;
+    border-bottom: lightslategray solid 3px;
     margin-top: 10px;
    
 }
@@ -32,6 +23,9 @@ body{
     background-color: white;
     margin: 25px;
     position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
 }
 /* nav bar styles */
 
@@ -47,12 +41,14 @@ body{
 }
 
 .navbar-default {
-    border-bottom: lightslategray solid 4px;
+    border-bottom: lightslategray solid 2px;
     background-color: white;
     
-
 }
 
+
+
+/* portfolio styles */
 .card-link {
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -61,6 +57,9 @@ body{
     font-size: 20px;
     position:relative;
     background-color: #4aaaa5;
+    
+    
+    
     
 }
 /* footer */
@@ -77,4 +76,7 @@ body{
 
 /* media queries */
 
-@media screen and (max-width: 767px)
+@media screen and (max-width: 767px) {
+
+
+}
