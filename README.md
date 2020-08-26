@@ -5,11 +5,11 @@ Portolio with a responsive layout.
 
 This portfolio was modified and updated from the previous. In this update, I have included buttons and links to social contacts, and professional contacts. Created links that will direct to my projects, and other works that I have accomplished. Using bootstrap 4.4 helped in the design and layout of the site. 
 
-![2020-08-25](https://user-images.githubusercontent.com/65925169/91277242-6875f580-e737-11ea-8fe2-46902b446cad.png)
+![2020-08-26](https://user-images.githubusercontent.com/65925169/91287885-2c499180-e745-11ea-8810-86d4d300c1a0.png)
 
 # Project link
 
-[Portfolio](https://mando619.github.io/Portfolio-Updated/).
+[Portfolio](https://mando619.github.io/Portfolio-Updated/).git
 
 # Resources 
 
