@@ -2,26 +2,39 @@
 
 
 body{
-    background-image: url(../images/seamless_paper_texture.png);
+    background-image: url(../images/blackbackground.jpg); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: auto 0;
-    color: lightslategrey;
-    
+    color: white;
+    font-size: 18px;
     
 }
+
 
 .Header {
     margin-bottom: 10px;
-    color: #4aaaa5;
     padding-bottom: 15px;
-    border-bottom: lightslategray solid 3px;
     margin-top: 10px;
+    color: #fee715ff;
    
 }
 
+
+p {
+    color: white;
+    font-weight: 900;
+    font-weight: bold;
+}
+
+.img-thumbnail {
+    border-style: solid;
+    border-color: #fee715ff;
+}
 /* container styles*/
 
 .container {
-    background-color: white;
     margin: 25px;
     position: relative;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -31,7 +44,6 @@ body{
 /* nav bar styles */
 
 .navbar-brand   {
-    background-color: #4aaaa5;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px;
@@ -41,39 +53,58 @@ body{
     
 }
 
-.navbar-default {
-    border-bottom: lightslategray solid 2px;
-    background-color: white;
+nav .navbar-right li a{
+    color: #fee715ff !important;
     
 }
 
-
+a:hover {
+    background-color: lightslategrey;
+  }
 
 /* portfolio styles */
 .card-link {
-    color: white;
+    color: #fee715ff;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 10px;
-    margin: 75px;
-    font-size: 20px;
-    position:relative;
-    background-color: #4aaaa5;
-    
-    
-    
+    padding: 7px;
+    margin: 55px;
+    font-size: 16px;
+    position: absolute;
+    background-color: black;   
+}
+
+.card {
+    position: relative;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.social-round-icon {
+    border: 1px solid #fee715ff;
+    border-radius: 50px;
+}
+
+.fa-icon {
+    width: 40px;
+    height: 40px;
+    line-height: 32px;
+    font-size: 25px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: right;
+    overflow: hidden;
     
 }
-/* footer */
 
-.footer-section {
-    text-align: center;
-    width: 100%;
-    position: fixed;
-    bottom: 0;
-    height: 30px;
-    clear: both;
-    border-top: 5px #4AAAA5 solid;
- }
+.footer-container {
+   /* padding: 60px 0;
+    /*margin-top: 30px;*/
+    display: block;
+}
+
+
 
 /* media queries */
 
