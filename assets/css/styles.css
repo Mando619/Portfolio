@@ -21,6 +21,18 @@ body{
    
 }
 
+.button {
+  background: black; 
+  border: 1px solid #fee715ff;
+  border-radius: 50px;
+  color: white;
+}
+
+.fa-envelope {
+    color: #fee715ff;
+}
+
+
 
 p {
     color: white;
@@ -85,7 +97,7 @@ a:hover {
     border: 1px solid #fee715ff;
     border-radius: 50px;
 }
-
+/* styling for the icons */
 .fa-icon {
     width: 40px;
     height: 40px;
