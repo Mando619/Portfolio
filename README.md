@@ -3,21 +3,25 @@ Portolio with a responsive layout.
 
 # Description
 
-This portfolio was modified and updated from the previous. In this update, I have included buttons and links to social contacts, and professional contacts. Created links that will direct to my projects, and other works that I have accomplished. Using bootstrap 4.4 helped in the design and layout of the site. 
+This portfolio was modified and updated from the previous. In this update, I have included buttons and links to social contacts, and professional contacts. Created links that will direct to my projects, and other works that I have accomplished. Using bootstrap 4.5 helped in the design and layout of the site. 
 
 ![2020-08-26](https://user-images.githubusercontent.com/65925169/91287885-2c499180-e745-11ea-8810-86d4d300c1a0.png)
 
 # Project link
 
-[Portfolio](https://mando619.github.io/Portfolio-Updated/).git
+[Portfolio](https://mando619.github.io/Portfolio-Updated/)
+
+[Link to deployed application of Eat-Da_Burrger](https://polar-earth-66617.herokuapp.com/)
+
+[Link to Note-Taker](https://polar-earth-66617.herokuapp.com/)
 
 # Resources 
 
-* https://getbootstrap.com/docs/4.5/getting-started/introduction/ 
+* [Boot-strap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
-* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* [CSS tricks and pointers](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-* "https://fonts.googleapis.com/css?family=Sofia"
+* [Google-fonts](https://fonts.googleapis.com/css?family=Sofia)
 
 # Installation
 

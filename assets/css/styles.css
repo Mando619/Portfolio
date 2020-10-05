@@ -1,7 +1,7 @@
 
 
 
-body{
+body {
     background-image: url(../images/blackbackground.jpg); 
     background-position: center;
     background-repeat: no-repeat;
@@ -11,6 +11,11 @@ body{
     
 }
 
+
+
+.card-img {
+    display: block;
+}
 
 .Header {
     margin-bottom: 10px;
@@ -78,7 +83,7 @@ a:hover {
     padding: 7px;
     margin: 55px;
     font-size: 16px;
-    position: relative;
+    position: wrap;
     background-color: black;   
 }
 
@@ -113,15 +118,82 @@ a:hover {
     display: block;
 }
 
+.wrapper {
+    margin: 20px 0;
+    width: 100%;
+
+}
+
+.wrapper .cards_wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wrapper .card_item {
+    width: 25%;
+    padding: 10px;
+
+}
+
+.cards_wrap .card_inner {
+    background:	#000000;
+    box-shadow:10px 10px 5px  #fee715ff;
+
+}
+
+.cards_wrap .card_top {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    padding-bottom: 0;
+}
+
+.cards_wrap .card_bottom {
+    padding: 15px;
+}
+
+.cards_weap .card_bottom .card_category {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.cards_wrap .card_bottom .card_info {
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px;
+}
+
+.cards_wrap .card_bottom .card_info .title {
+    color: #0071bc;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
 
 
 /* media queries */
 
-@media screen and (max-width: 767px) {
+@media (max-width: 1024px) {
+.cards_wrap .card_item {
+    width: 33.3%;
+}
+}
+
+@media screen and (max-width: 768px) {
+
+.cards_wrap .cards_item {
+    width: 50%;
+}
 
 nav {
     width: 100%;
     padding: 20px;
-    
+}
+
+    @media screen and (max-width: 528px) {
+        .cards_wrap .card_item {
+            width: 100px;
+        }
+
   }
 }
