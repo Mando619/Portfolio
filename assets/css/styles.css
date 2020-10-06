@@ -44,7 +44,8 @@ p {
 
 .img-thumbnail {
     border-style: solid;
-    border-color: #fee715ff;
+    box-shadow:10px 10px 5px  #fee715ff;
+    
 }
 /* container styles*/
 
