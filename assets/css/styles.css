@@ -44,7 +44,7 @@ p {
 
 .img-thumbnail {
     border-style: solid;
-    box-shadow:10px 10px 5px  #fee715ff;
+    box-shadow:5px 5px 2px  #fee715ff;
     
 }
 /* container styles*/
@@ -138,7 +138,7 @@ a:hover {
 
 .cards_wrap .card_inner {
     background:	#000000;
-    box-shadow:10px 10px 5px  #fee715ff;
+    box-shadow:5px 5px 2px  #fee715ff;
 
 }
 
