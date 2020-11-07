@@ -11,9 +11,11 @@ This portfolio was modified and updated from the previous. In this update, I hav
 
 [Portfolio](https://mando619.github.io/Portfolio-Updated/)
 
-[Link to deployed application of Eat-Da_Burrger](https://polar-earth-66617.herokuapp.com/)
+[Link to Mood-Me Project](https://github.com/Mando619/Mood-Me-)
 
-[Link to Note-Taker](https://polar-earth-66617.herokuapp.com/)
+[Link to Restaurant-Tracker Deployed](https://polar-earth-66617.herokuapp.com/)
+
+[Restaurant-Tracker](https://github.com/mathbolson/Restaurant-Track)
 
 # Resources 
 
