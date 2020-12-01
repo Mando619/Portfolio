@@ -13,8 +13,6 @@ This portfolio was modified and updated from the previous. In this update, I hav
 
 [Link to Mood-Me Project](https://github.com/Mando619/Mood-Me-)
 
-[Link to Restaurant-Tracker Deployed](https://polar-earth-66617.herokuapp.com/)
-
 [Restaurant-Tracker](https://github.com/mathbolson/Restaurant-Track)
 
 # Resources 
