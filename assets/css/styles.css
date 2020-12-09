@@ -1,6 +1,5 @@
 
 
-
 body {
     background-image: url(../images/blackbackground.jpg); 
     background-position: center;
@@ -8,7 +7,6 @@ body {
     background-size: cover;
     margin: auto 0;
     color: white;
-    
 }
 
 
@@ -30,6 +28,7 @@ body {
   border: 1px solid #fee715ff;
   border-radius: 50px;
   color: white;
+  padding: 5px;
 }
 
 .fa-envelope {
@@ -40,6 +39,7 @@ body {
 p {
     color: white;
     font-size: 20px;
+    padding: 20px 20px;
 }
 
 .img-thumbnail {
@@ -52,15 +52,16 @@ p {
 .container {
     margin: 25px;
     position: relative;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Optima', sans-serif;
     font-size: 18px;
+    padding: 20px;
     
 }
 /* nav bar styles */
 
 .navbar-brand   {
     color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Optima', sans-serif;
     padding: 10px;
     margin: 0;
     font-size: 20px;
@@ -70,11 +71,12 @@ p {
 
 nav .navbar-right li a{
     color: #fee715ff !important;
+    font-family: 'Optima', sans-serif;
     
 }
 
 a:hover {
-    background-color: lightslategrey;
+    background-color: whitesmoke;
   }
 
 /* portfolio styles */
@@ -121,17 +123,17 @@ a:hover {
 
 .wrapper {
     margin: 20px 0;
-    width: 100%;
-
+    width: 80%;
 }
 
 .wrapper .cards_wrap {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
+    
 }
 
 .wrapper .card_item {
-    width: 25%;
+    width: 33.3%;
     padding: 10px;
 
 }
